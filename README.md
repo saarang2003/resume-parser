@@ -1,4 +1,4 @@
-```markdown
+
 # 📄 resume-parser
 
 > A robust and extensible PDF resume parser for Node.js that extracts structured data like contact info, education, skills, projects, experience, and more.
@@ -13,7 +13,6 @@ Install the package via npm:
 npm install resume-parser
 ```
 
----
 
 ## 🚀 Usage
 
