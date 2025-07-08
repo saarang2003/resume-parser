@@ -10,7 +10,7 @@
 Install the package via npm:
 
 ```bash
-npm install resume-parser
+npm install pdf-resume-parser
 ```
 
 
@@ -19,7 +19,7 @@ npm install resume-parser
 Here's how to use the resume-parser in your Node.js project:
 
 ```javascript
-const ResumeParser = require('resume-parser');
+const ResumeParser = require('pdf-resume-parser');
 const parser = new ResumeParser();
 
 (async () => {
@@ -123,13 +123,13 @@ To test the parser locally, set up a new project:
 mkdir test-project
 cd test-project
 npm init -y
-npm install resume-parser
+npm install pdf-resume-parser
 ```
 
 Then, create a test script (e.g., `test.js`):
 
 ```javascript
-const ResumeParser = require('resume-parser');
+const ResumeParser = require('pdf-resume-parser');
 const parser = new ResumeParser();
 
 (async () => {
