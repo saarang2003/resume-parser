@@ -1,6 +1,6 @@
 {
   "name": "resume-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A robust PDF resume parser for Node.js",
   "keywords": [
     "cli",
